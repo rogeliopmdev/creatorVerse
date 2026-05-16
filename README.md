@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[https://imgur.com/a/TyKQecN](https://i.imgur.com/d5Q2ut1.mp4)' title='creatorVerse Video Walkthrough' width='100%' alt='Video Walkthrough' />
+<img src='[[https://imgur.com/a/TyKQecN](https://i.imgur.com/d5Q2ut1.mp4)](https://i.imgur.com/d5Q2ut1.mp4)' title='creatorVerse Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif] 
 
